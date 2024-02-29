@@ -1,3 +1,5 @@
 def squares_sum(n):
   # Type your code
-  return
+  area = (base * height) / 2
+  return area
+
